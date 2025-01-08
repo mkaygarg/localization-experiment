@@ -1,0 +1,12 @@
+{
+  "greetings": "Hello, world!",
+  "farewell": "Goodbye, see you soon!",
+  "motivation": "Keep pushing forward.",
+  "error_message": "Something went wrong. Please try again later.",
+  "confirmation": "Your changes have been saved successfully.",
+  "warning": "This action cannot be undone.",
+  "welcome_message": "Welcome to our application!",
+  "placeholder_text": "Enter your text here...",
+  "success_message": "Operation completed successfully!",
+  "info_message": "Did you know? You can customize this application to suit your needs."
+}
