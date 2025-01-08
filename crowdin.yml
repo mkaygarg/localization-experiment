@@ -5,7 +5,7 @@
 "preserve_hierarchy": true
 files: [
   {
-    "source": "/resources/en/*.json",
+    "source": "/resources/en/en.json",
     "translation": "/resources/%two_letters_code%/*.json",
   }
 ]
