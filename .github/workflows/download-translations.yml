@@ -1,4 +1,4 @@
-name: Upload strings to crowdin
+name: download translations from crowdin
 
 
 on: workflow_dispatch
